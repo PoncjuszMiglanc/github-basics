@@ -1,3 +1,5 @@
 Witam, dodaję zmianę, która ma zostać stracona z powodu nie wrzucenia jej do stasha.Okej, nawet nie da się w pizdu stąd pójść bez zapisywania ich do stasha albo komita, bo wyskakuje błąd. 
 
 okej kolejna zmiana by zobaczyć czy i to się doda do nowego stasha.
+
+kolejna zmiana, by dodać notatkę. 
