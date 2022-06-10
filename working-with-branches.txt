@@ -3,3 +3,5 @@ Witam, dodaję zmianę, która ma zostać stracona z powodu nie wrzucenia jej do
 okej kolejna zmiana by zobaczyć czy i to się doda do nowego stasha.
 
 kolejna zmiana, by dodać notatkę. 
+
+3 zmiana, cwiczymy przywracanie branczy po komicie.
