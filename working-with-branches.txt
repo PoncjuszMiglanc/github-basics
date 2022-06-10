@@ -7,3 +7,5 @@ kolejna zmiana, by dodać notatkę.
 3 zmiana, cwiczymy przywracanie branczy po komicie.
 
 4 zmiana.
+
+5ta. 
